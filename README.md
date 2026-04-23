@@ -1,2 +1,2 @@
 # agrio-web
-Japanese HTML Website
+Japanese HTML/CSS Website
